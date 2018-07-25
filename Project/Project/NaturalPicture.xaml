@@ -1,0 +1,19 @@
+﻿
+    
+    <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ImageBrush x:Key="NaturalBrush" ImageSource="Images/natural.jpeg"/>
+    <ImageBrush x:Key="WoodBrush" ImageSource="Images/wood.jpg"/>
+    <Style x:Key="NaturalPicture" TargetType="Grid">
+        <Setter Property="Background" Value="{StaticResource NaturalBrush}"/>
+    </Style>
+    <Style x:Key="WoodPicture" TargetType="Grid">
+        <Setter Property="Background" Value="{StaticResource WoodBrush}"/>
+    </Style>
+    <Style x:Key="WidowNatureForm" TargetType="Window">
+        <Setter Property="Background" Value="{StaticResource NaturalBrush}"/>
+    </Style>
+    
+    
+</ResourceDictionary>

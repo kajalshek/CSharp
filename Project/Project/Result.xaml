@@ -1,0 +1,33 @@
+﻿<Window x:Class="Project.Result" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Result Entry" Height="414" Width="601" Loaded="Window_Loaded" Style="{StaticResource WidowNatureForm}" ResizeMode="NoResize" >
+    <Grid>
+        <TextBlock Text="ID :" Margin="79,57,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Width="89" Foreground="White" TextAlignment="Right" />
+        <TextBox x:Name="id" Text="" Margin="200,57,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" 
+                 FontSize="15" Width="90" Height="30"   Foreground="Red" FontWeight="ExtraBold"  TabIndex="0"/>
+        <TextBlock Text="Name :" Margin="101,102,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Width="70" Foreground="White" TextAlignment="Right" />
+        <TextBox x:Name="name" Text="" Margin="200,95,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"
+                 FontSize="15" Width="336" Height="37" Foreground="Red" FontWeight="ExtraBold" TabIndex="1"/>
+        <TextBlock Text="Exam Date :" Margin="63,145,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Width="106" Foreground="White" TextAlignment="Right"/>
+        <DatePicker x:Name="examDate"  Margin="200,137,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"
+                 FontSize="22"  TabIndex="2" RenderTransformOrigin="0.494,0.408" Width="336" Height="37" Padding="0" UseLayoutRounding="False" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" IsEnabled="False" />
+        <TextBlock Text="Obtain Mark :" Margin="22,233,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Width="144" Foreground="White" TextAlignment="Right" />
+        <TextBox x:Name="totalMark" Text="" Margin="200,224,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15" Width="336" Height="38" TabIndex="4"/>
+
+
+
+        <Button x:Name="find" Content="Find" Margin="390,58,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="63" Click="Find_Click" Height="27"/>
+        <Button x:Name="insert" Content="Insert" Margin="197,286,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="79"  Height="26" IsEnabled="False"
+                Click="insert_Click" TabIndex="5"/>
+        <TextBlock Text="Exam No :" Margin="22,187,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="19" Width="144" Foreground="White" TextAlignment="Right"/>
+        <TextBox x:Name="quizeNumber" Text="" Margin="200,180,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"
+                 FontSize="15" Width="336" Height="38" TabIndex="3"/>
+        <Button x:Name="update" Content="Update" Margin="281,286,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="71"  
+                Click="Update" Height="26" IsEnabled="False" TabIndex="6"/>
+        <Button x:Name="delete" Content="Delete" Margin="365,286,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="73" TabIndex="6" Height="26" Click="delete_Click"/>
+        <Button x:Name="count" Content="View Total Entry" Margin="466,58,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Click="count_Click" Height="27" />
+        <Button x:Name="resultClear" Content="Clear" Margin="455,286,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" TabIndex="6" Height="26" Click="clear_Click" />
+        <Button x:Name="cheack" Content="Check" Margin="304,58,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" RenderTransformOrigin="-0.543,0.45" Click="cheack_Click" Height="27" />
+    </Grid>
+</Window>

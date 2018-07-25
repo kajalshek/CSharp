@@ -1,0 +1,114 @@
+G:\Visual C#\Cogent\Project\Project\bin\Debug\Project.exe.config
+G:\Visual C#\Cogent\Project\Project\bin\Debug\Project.exe
+G:\Visual C#\Cogent\Project\Project\bin\Debug\Project.pdb
+G:\Visual C#\Cogent\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+G:\Visual C#\Cogent\Project\Project\obj\Debug\MainWindow.baml
+G:\Visual C#\Cogent\Project\Project\obj\Debug\MainWindow.g.cs
+G:\Visual C#\Cogent\Project\Project\obj\Debug\App.g.cs
+G:\Visual C#\Cogent\Project\Project\obj\Debug\Project_MarkupCompile.cache
+G:\Visual C#\Cogent\Project\Project\obj\Debug\Project.g.resources
+G:\Visual C#\Cogent\Project\Project\obj\Debug\Project.Properties.Resources.resources
+G:\Visual C#\Cogent\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+G:\Visual C#\Cogent\Project\Project\obj\Debug\Project.exe
+G:\Visual C#\Cogent\Project\Project\obj\Debug\Project.pdb
+C:\Users\Kajal\Downloads\Compressed\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project.exe
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project.pdb
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\MainWindow.baml
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\App.g.cs
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project.g.resources
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Kajal\Downloads\Compressed\Project\Project\bin\Debug\Project.exe
+C:\Users\Kajal\Downloads\Compressed\Project\Project\bin\Debug\Project.pdb
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Result.baml
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Result.g.cs
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\NaturalPicture.baml
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\App.baml
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project.ViewResult.resources
+C:\Users\Kajal\Downloads\Compressed\Project\Project\obj\Debug\Project.ShowStudent.resources
+E:\C#\Project\Home\Project\Project\bin\Debug\Project.exe.config
+E:\C#\Project\Home\Project\Project\obj\Debug\Project.exe
+E:\C#\Project\Home\Project\Project\obj\Debug\Project.pdb
+E:\C#\Project\Home\Project\Project\bin\Debug\Project.exe
+E:\C#\Project\Home\Project\Project\bin\Debug\Project.pdb
+E:\C#\Project\Home\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\C#\Project\Home\Project\Project\obj\Debug\MainWindow.baml
+E:\C#\Project\Home\Project\Project\obj\Debug\NaturalPicture.baml
+E:\C#\Project\Home\Project\Project\obj\Debug\Result.baml
+E:\C#\Project\Home\Project\Project\obj\Debug\App.baml
+E:\C#\Project\Home\Project\Project\obj\Debug\MainWindow.g.cs
+E:\C#\Project\Home\Project\Project\obj\Debug\Result.g.cs
+E:\C#\Project\Home\Project\Project\obj\Debug\App.g.cs
+E:\C#\Project\Home\Project\Project\obj\Debug\Project_MarkupCompile.cache
+E:\C#\Project\Home\Project\Project\obj\Debug\Project.g.resources
+E:\C#\Project\Home\Project\Project\obj\Debug\Project.ShowStudent.resources
+E:\C#\Project\Home\Project\Project\obj\Debug\Project.viewResult.resources
+E:\C#\Project\Home\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\C#\Project\Home\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Kajal\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Kajal\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Kajal\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Kajal\Desktop\Project\Project\bin\Debug\Fieldes.dll
+C:\Users\Kajal\Desktop\Project\Project\bin\Debug\Fieldes.pdb
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\MainWindow.baml
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\NaturalPicture.baml
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Result.baml
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\App.baml
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Result.g.cs
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\App.g.cs
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project.g.resources
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project.ShowStudent.resources
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project.viewResult.resources
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Kajal\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\bin\Debug\Fieldes.dll
+C:\Users\User\Desktop\Project\Project\bin\Debug\Fieldes.pdb
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Project\Project\obj\Debug\NaturalPicture.baml
+C:\Users\User\Desktop\Project\Project\obj\Debug\Result.baml
+C:\Users\User\Desktop\Project\Project\obj\Debug\App.baml
+C:\Users\User\Desktop\Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Project\Project\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\Project\Project\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.g.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.ShowStudent.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.viewResult.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\COGENT\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\COGENT\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\COGENT\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\COGENT\Desktop\Project\Project\bin\Debug\Fieldes.dll
+C:\Users\COGENT\Desktop\Project\Project\bin\Debug\Fieldes.pdb
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\MainWindow.baml
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\NaturalPicture.baml
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Result.baml
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\App.baml
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Result.g.cs
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\App.g.cs
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project.g.resources
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project.ShowStudent.resources
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project.viewResult.resources
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\COGENT\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
